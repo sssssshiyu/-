@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		133C1FDA1E8E647000983B05 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 133C1FD91E8E647000983B05 /* CalculatorBrain.swift */; };
 		135229F41E853AB60076358E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13D8ED071E83D15100AFFE88 /* Assets.xcassets */; };
 		13D8ED011E83D15100AFFE88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13D8ED001E83D15100AFFE88 /* AppDelegate.swift */; };
 		13D8ED031E83D15100AFFE88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13D8ED021E83D15100AFFE88 /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		133C1FD91E8E647000983B05 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		13D8ECFD1E83D15100AFFE88 /* 计算器.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "计算器.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13D8ED001E83D15100AFFE88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		13D8ED021E83D15100AFFE88 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				13D8ED001E83D15100AFFE88 /* AppDelegate.swift */,
 				13D8ED021E83D15100AFFE88 /* ViewController.swift */,
 				13D8ED041E83D15100AFFE88 /* Main.storyboard */,
+				133C1FD91E8E647000983B05 /* CalculatorBrain.swift */,
 				13D8ED071E83D15100AFFE88 /* Assets.xcassets */,
 				13D8ED091E83D15100AFFE88 /* LaunchScreen.storyboard */,
 				13D8ED0C1E83D15100AFFE88 /* Info.plist */,
@@ -201,6 +204,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				133C1FDA1E8E647000983B05 /* CalculatorBrain.swift in Sources */,
 				13D8ED031E83D15100AFFE88 /* ViewController.swift in Sources */,
 				13D8ED011E83D15100AFFE88 /* AppDelegate.swift in Sources */,
 			);
